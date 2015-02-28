@@ -3,7 +3,7 @@
 
 # Vliegmachien!
 
-Ons idee is simpel: __Vliegmachien!__ fietst over het festival, en tot in de verre uithoeken van het terrein verzorgt __Vliegmachien!__ popup-optredens. We zijn uitgerust met een PA, hangend onder de vleugels, en in 't ruim vervoeren we een gitaarversterker. En, uiteraard, overal lampjes en lichtjes, voor als het donker is. Samen met de bands die optreden op het festival ontstaat er een randprogrammering van kleine, semi-akoestische optredens, op willekeurige plekken.
+Ons idee is simpel: __Vliegmachien!__ fietst over het festival en verzorgt tot in de verre uithoeken van het terrein popup-optredens. We zijn uitgerust met een PA, hangend onder de vleugels, en in 't ruim vervoeren we een gitaarversterker. En, uiteraard, overal lampjes en lichtjes, voor als het donker is. Samen met de bands die optreden op het festival ontstaat er een randprogrammering van kleine, semi-akoestische optredens, op willekeurige plekken.
 
 <img class="emoji" src="emoji/89.png" />
 <img class="emoji" src="emoji/279.png" />
