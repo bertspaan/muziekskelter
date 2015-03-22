@@ -1,9 +1,9 @@
 ---
 ---
 
-# Vliegmachien!
+# Muziekskelter!
 
-Ons idee is simpel: __Vliegmachien!__ fietst over het festival en verzorgt tot in de verre uithoeken van het terrein popup-optredens. We zijn uitgerust met een PA, hangend onder de vleugels, en in 't ruim vervoeren we een gitaarversterker. En, uiteraard, overal lampjes en lichtjes, voor als het donker is. Samen met de bands die optreden op het festival ontstaat er een randprogrammering van kleine, semi-akoestische optredens, op willekeurige plekken.
+Ons idee is simpel: __Muziekskelter!__ fietst over het festival en verzorgt tot in de verre uithoeken van het terrein popup-optredens. We zijn uitgerust met een PA, een gitaarversterker en, uiteraard, overal lampjes en lichtjes, voor als het donker is. Samen met de bands en DJ's die optreden op het festival ontstaat er een randprogrammering van kleine, semi-akoestische optredens, op willekeurige plekken.
 
 <img class="emoji" src="emoji/89.png" />
 <img class="emoji" src="emoji/279.png" />
@@ -23,22 +23,25 @@ In het begin - onderweg van Rotterdam naar Utrecht:
 
 ![](rotterdam.jpg)
 
-Werkplaats in Utrecht, met __Vliegmachien!__ in z'n huidige staat:
+Werkplaats in Utrecht, met __Muziekskelter!__ in z'n huidige staat:
 
 ![](werkplaats.jpg)
 
 #### Begroting
 
-| Omschrijving            | Kosten
-|:------------------------|-----------:
-| Fietsskelter            |    € 200,-
-| Staal, hout, verf, etc. |    € 300,-
-| Lampjes!                |    € 100,-
-| Accu's                  |    € 100,-
-| Geluidsinstallatie      |    € 550,-
-| Gitaarversterker        |    € 200,-
-| __Totaal__              | __€ 1450,-__
-
+| Omschrijving                         | Kosten
+|:-------------------------------------|-----------:
+| Fietsskelter                         |    € 200,-
+| Staal, hout, verf, etc.              |    € 500,-
+| Lampen, LED-strips, LED prikkabels   |    € 150,-
+| Bedrading en aansluitmateriaal       |    € 100,-
+| Accu's                               |    € 100,-
+| Geluidsinstallatie                   |    € 550,-
+| Klein mengpaneel                     |     € 80,-
+| Gitaarversterker                     |    € 200,-
+| Transportkosten                      |     € 80,-
+| _Onvoorzien_                         |   _€ 200,-_
+| __Totaal__                           | __€ 2160,-__
 
 #### Portfolio
 
@@ -70,9 +73,9 @@ Hottub, gemaakt van onderstel van varkensvoedersilo:
 
 ![](voedersilohottub.jpg)
 
-Allereerste schets van __Vliegmachien!__:
+Allereerste schets van __Muziekskelter!__:
 
-![](vliegmachien.jpg)
+![](Muziekskelter.jpg)
 
 #### CV
 
