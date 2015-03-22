@@ -5,7 +5,6 @@
 
 Ons idee is simpel: __Muziekskelter!__ fietst over het festival en verzorgt tot in de verre uithoeken van het terrein popup-optredens. We zijn uitgerust met een PA, een gitaarversterker en, uiteraard, overal lampjes en lichtjes, voor als het donker is. Samen met de bands en DJ's die optreden op het festival ontstaat er een randprogrammering van kleine, semi-akoestische optredens, op willekeurige plekken.
 
-<img class="emoji" src="emoji/89.png" />
 <img class="emoji" src="emoji/279.png" />
 <img class="emoji" src="emoji/323.png" />
 <img class="emoji" src="emoji/325.png" />
